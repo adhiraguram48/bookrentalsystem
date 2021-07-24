@@ -1,0 +1,6 @@
+Immortals of Meluha|Amish|10|40
+Sword of Summer|Rick Riordan|11|30
+Percy Jackson|Rick Riordan|12|20
+Harry Potter|J K Rowling|12|100
+Clifton Chronicles|Jeffery Archer|12|50
+Not a penny more not a penny less|Jeffery Archer|10|15

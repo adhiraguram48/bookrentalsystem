@@ -1,0 +1,6 @@
+Immortals of Meluha,Amish,10,Rs40
+Sword of Summer,Rick Riordan,11,Rs30
+Percy Jackson,Rick Riordan,12,Rs20
+Harry Potter,J K Rowling,12,Rs100
+Clifton Chronicles,Jeffery Archer,12,Rs50
+Not a penny more not a penny less,Jeffery Archer,10,Rs15
